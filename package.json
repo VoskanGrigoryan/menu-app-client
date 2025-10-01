@@ -12,7 +12,7 @@
     "@mantine/dates": "^8.3.2",
     "@mantine/form": "^8.3.2",
     "@mantine/hooks": "^8.3.2",
-    "@tabler/core": "^1.4.0",
+    "@tabler/icons-react": "^3.35.0",
     "dayjs": "^1.11.18",
     "next": "15.5.4",
     "react": "19.1.0",
