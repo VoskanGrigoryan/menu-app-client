@@ -4,7 +4,6 @@ import { useState } from "react";
 import { Group, MultiSelect, Select, Text } from "@mantine/core";
 
 const formatSelected = (values: string[]) => {
-  if (values.length === 0) return "Ninguno seleccionado";
   const shown = values.slice(0, 2).join(", ");
   const remaining = values.length > 2 ? ` +${values.length - 2} más` : "";
   return shown + remaining;

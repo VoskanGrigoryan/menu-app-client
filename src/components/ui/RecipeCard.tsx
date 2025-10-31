@@ -15,7 +15,7 @@ export default function RecipeCard() {
       style={{ minHeight: "120px", maxHeight: "200px", cursor: "pointer" }}
     >
       <Group justify="space-between" mt="0" mb="0">
-        <Text fw={500}>Costillar de cerdo marinado</Text>
+        <Text fw={700}>Costillar de cerdo marinado</Text>
         <Badge
           color="gray"
           size="md"
